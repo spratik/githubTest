@@ -8,6 +8,7 @@ git remote add origin https://github.com/spratik/githubTest.git /// add into git
 git log --oneline // showing version of the project
 
 git checkout version // particular project u got it
+git config --global --edit
 
 
 
