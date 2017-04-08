@@ -1,0 +1,10 @@
+git init //  initilize git
+git add README.md // add file
+git commit -m "first commit" // commit the code
+git remote add origin https://github.com/spratik/githubTest.git /// add into github folder
+
+ git push -u origin master
+
+
+
+
